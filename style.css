@@ -215,6 +215,7 @@
 .more-details {
   text-decoration: underline;
   color: #e55473;
+  cursor: pointer;
 }
 
 /* instagram section */
